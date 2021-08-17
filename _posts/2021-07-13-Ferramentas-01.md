@@ -1,0 +1,24 @@
+---
+layout: post
+title: Ferramentas 01
+---
+
+## Apps Opensource
+Notepad++ https://notepad-plus-plus.org/
+KeePass https://keepass.info/
+7-zip https://www.7-zip.org/
+Putty https://www.putty.org/
+WinSCP https://winscp.net/
+
+
+## SASS
+Organizze https://www.organizze.com.br/
+
+## Mundo Microsoft
+VSCode https://code.visualstudio.com/
+ZoomIt https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit
+WSL https://docs.microsoft.com/pt-br/windows/wsl/install-win10
+Windows Terminal https://github.com/microsoft/terminal
+
+## Office
+Pago o Office 365 principalmente para ter MS Excel e Onedrive.

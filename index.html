@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+<!---arquivo por data-->
 <div class="archive">
   {% for post in site.posts %} {% assign currDate = post.date | date: "%Y" %} {%
   if currDate != date %}
@@ -17,3 +17,6 @@ layout: default
   </div>
   {% endfor %}
 </div>
+
+<!---arquivo por tag !TODO melhorar isso-->
+

@@ -1,3 +1,7 @@
+body {
+  background-color: #b3c3c0
+}
+
 table {
   @extend .table;
   @extend .table-striped;
@@ -12,9 +16,17 @@ img {
   margin-bottom: 1rem;
 }
 
+@font-face {
+  font-family: Dymo;
+  src:  url('/assets/fonts/Dymo.ttf');
+}
+
 .navbar {
   margin-bottom: 2rem;
   border-bottom: 0.125rem solid hsl(0, 0%, 30%);
+  //background-color: #212529;
+  //font-family: Dymo;
+  //font-size: 200%;
 }
 
 .archive-year {

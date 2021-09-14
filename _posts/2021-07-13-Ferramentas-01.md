@@ -3,14 +3,15 @@ layout: post
 title: Ferramentas 01
 ---
 
-## Apps Opensource
+![Bancada de Ferramentas]({{site.baseurl}}/assets/images/posts_img/ferramentas-01.jpg)
+*Photo by [cottonbro](https://www.pexels.com/pt-br/@cottonbro)*
 
+## Apps Opensource
 - [Notepad++](https://notepad-plus-plus.org/)
 - [KeePass](https://keepass.info/)
 - [7-zip](https://www.7-zip.org/)
 - [Putty](https://www.putty.org/)
 - [WinSCP](https://winscp.net/)
-
 
 ## SASS
 - [Organizze](https://www.organizze.com.br/)

@@ -82,7 +82,7 @@ pre.highlight {
   padding: 1rem;
 }
 
-/*
+
 @media (prefers-color-scheme: dark) {
   .footer-icon-links {
     text-decoration: none;
@@ -98,5 +98,11 @@ pre.highlight {
   .archive-title {
     color: #e1e1e1;
   }
+
+  .light-avatar {
+    display: none !important;
+  }
+  .dark-avatar {
+    display: inline-block !important;
+  }
 }
-*/

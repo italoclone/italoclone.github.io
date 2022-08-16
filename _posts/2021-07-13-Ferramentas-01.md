@@ -4,7 +4,7 @@ title: Ferramentas 01
 ---
 
 ![Bancada de Ferramentas]({{site.baseurl}}/assets/images/posts_img/ferramentas-01.jpg)
-*Photo by [cottonbro](https://www.pexels.com/pt-br/@cottonbro)*
+*Photo by [pixabay](https://www.pexels.com/pt-br/@pixabay/)*
 
 ## Apps Opensource
 - [Notepad++](https://notepad-plus-plus.org/)

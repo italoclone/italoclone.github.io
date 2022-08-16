@@ -20,8 +20,21 @@ img {
 
 @font-face {
   font-family: Dymo;
-  src:  url('/assets/fonts/Dymo.ttf');
+  src: url('/assets/fonts/Dymo.ttf');
 }
+
+
+.navbar-light .navbar-nav .nav-link {
+  color: #212529;
+
+}
+
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .show>.nav-link {
+  color: #212529;
+
+}
+
 
 .navbar {
   margin-bottom: 2rem;
@@ -84,7 +97,8 @@ pre.highlight {
 }
 
 
-@media (prefers-color-scheme: dark) { }
+@media (prefers-color-scheme: dark) {}
+
 /*
 @media (prefers-color-scheme: dark) {
   .footer-icon-links {

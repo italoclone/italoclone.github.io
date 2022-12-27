@@ -3,9 +3,7 @@ layout: post
 title: Ferramentas 01
 ---
 
-![Bancada de Ferramentas]({{site.baseurl}}/assets/images/posts_img/ferramentas-01.jpg)
 ![Bancada de Ferramentas](/assets/images/posts_img/ferramentas-01.jpg)
-
 _Photo by [pixabay](https://www.pexels.com/pt-br/@pixabay/)_
 
 ## Apps Opensource
